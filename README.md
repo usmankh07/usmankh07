@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Usman</h1>
-<h3 align="center">A problem-solver frontend developer from Pakistan.</h3>
+<h3 align="center">A Data Scientist From Pakistan.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usmankh07&label=Profile%20views&color=0e75b6&style=flat" alt="usmankh07" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **NodeJS and Express.**
 
-- 👯 I’m looking to collaborate on **any UI related or frontend projects.**
+- 👯 I’m looking to collaborate on **any UI-related or frontend projects.**
 
 - 🤝 I’m looking for help with **my JavaScript Problems.**
 
