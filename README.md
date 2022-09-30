@@ -7,17 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/usmandeveloper" target="blank"><img src="https://img.shields.io/twitter/follow/usmandeveloper?logo=twitter&style=for-the-badge" alt="usmandeveloper" /></a> </p>
 
-- 🔭 I’m currently working on **Netflix-Clone made from React and Firebase**
+- 🌱 I’m currently learning **Python**
 
-- 🌱 I’m currently learning **NodeJS and Express.**
+- 👯 I’m looking to collaborate on **any beginner level python projects.**
 
-- 👯 I’m looking to collaborate on **any UI-related or frontend projects.**
-
-- 🤝 I’m looking for help with **my JavaScript Problems.**
+- 🤝 I’m looking for help with **my Python Problems.**
 
 - 👨‍💻 All of my projects are available at [https://youngdev.netlify.app/](https://youngdev.netlify.app/)
 
-- 💬 Ask me about **React, CSS and JavaScript**
+- 💬 Ask me about **Python**
 
 - 📫 How to reach me **usmanwritecode@gmail.com**
 
