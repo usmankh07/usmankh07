@@ -9,11 +9,9 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👯 I’m looking to collaborate on **any beginner level python projects.**
+- 👯 I’m looking to work on **any front-end projects.**
 
-- 🤝 I’m looking for help with **my Python Problems.**
-
-- 👨‍💻 All of my projects are available at [https://youngdev.netlify.app/](https://youngdev.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://usmandeveloper.netlify.app/](https://usmandeveloper.netlify.app/)
 
 - 💬 Ask me about **Python**
 
